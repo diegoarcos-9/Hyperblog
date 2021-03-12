@@ -10,7 +10,7 @@ En este curso vemos de todo:
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplo en Windows, Linux, Mac
-
+* Disponible para todas las edades
 
 
 
